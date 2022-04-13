@@ -1,0 +1,24 @@
+.button-base{
+  display: inline-block;
+  height: 32px;
+  cursor: pointer;
+  line-height: 32px;
+  text-align: center;
+  background: #fff;
+  border-radius: 2px;
+  border: 1px solid #d9d9d9;
+  box-shadow: 0 2px #00000004;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  white-space: nowrap;
+}
+
+.button-base:hover{
+  color: #1890ff;
+  border-color: #1890ff;
+}
+
+.button-base:focus{
+  color: #1890ff;
+  border-color: #1890ff;
+}
